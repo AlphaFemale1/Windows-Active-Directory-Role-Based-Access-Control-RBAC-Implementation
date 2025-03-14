@@ -77,9 +77,6 @@ Configured in Group Policy (gpedit.msc):
 ✅ Disabled Anonymous Logins
 	•	Disabled guest accounts & anonymous enumeration.
 
-✅ Enabled Security Auditing for Login Attempts
-	•	Audited failed login attempts using Event Viewer (eventvwr.msc).
-
 📍 6. Final Testing & Verification
 
 ✅ Tested Remote Desktop login with different user accounts.
